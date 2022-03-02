@@ -1,6 +1,6 @@
 # `cuchinizer`
 
-`cuchinizer` allows you to write Ruby script by using only `cuchi`.
+`cuchinizer` allows you to write Ruby scripts by using only `cuchi`.
 
 ## Installation
 
@@ -8,7 +8,7 @@
 
 ## Usage
 
-The following ✨ pice of art ✨ is a "Hello, cuchi!" program which can be executed by Ruby interpreter:
+The following ✨ piece of art ✨ is a "Hello, cuchi!" program which can be executed by Ruby interpreter:
 
     require "cuchinizer"
 
