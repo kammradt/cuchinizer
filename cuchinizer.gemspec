@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Vinicius Kammradt", "Gabriel Rohden"]
   spec.email = ["vinicius.kammradt1@gmail.com", "gabriel_rohden@outlook.com"]
 
-  spec.summary = "'cuchinizder' allows you to write Ruby script by using only 'cuchi'. It's a simple and easy way to write Ruby scripts."
+  spec.summary = "'cuchinizer' allows you to write Ruby script by using only 'cuchi'. It's a simple and easy way to write Ruby scripts."
   spec.description = "'cuchinizder' allows you to write Ruby script by using only 'cuchi'. It's a simple and easy way to write Ruby scripts."
   spec.homepage = "http://github.com/kammradt/cuchinizer"
   spec.license = "MIT"
