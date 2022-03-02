@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name = "cuchinizer"
-  spec.version = "1.0"
+  spec.version = "1.1"
   spec.authors = ["Vinicius Kammradt", "Gabriel Rohden"]
   spec.email = ["vinicius.kammradt1@gmail.com", "gabriel_rohden@outlook.com"]
 
