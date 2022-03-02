@@ -7,7 +7,7 @@ def 😂😂cuchinizer😂😂(src)
     (!code.empty? && !code.last.size + n + 1 >= (2 ** 6) + n) ? code.last << " " : code << ""
     code.last << :cuchi.to_s * n
   end
-  ([] << ['require "./cuchinizer"'] + code).join "\n"
+  ([] << ['require "cuchinizer"'] + code).join "\n"
 end
 
 def method_missing(mhd, *x)
