@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda6a3ce-3f01-43bd-9087-5cccb904c142" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cuchinizer.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/cuchinizer.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <workItem from="1646237240447" duration="580000" />
       <workItem from="1646237880908" duration="87000" />
       <workItem from="1646237980818" duration="31000" />
-      <workItem from="1646240039960" duration="204000" />
+      <workItem from="1646240039960" duration="223000" />
     </task>
     <servers />
   </component>
